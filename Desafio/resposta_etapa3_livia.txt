@@ -1,0 +1,10 @@
+RESPOSTAS - ETAPA 3 - DESAFIO FS 2022.1 - LÍVIA LIMA
+
+1- Qual a sintaxe para importação de bibliotecas no python?
+Resposta: Para fazer a importação de bibliotecas no Python, utilizamos a seguinte sintaxe: pip install <nome-do-pacote>.
+
+2- Qual biblioteca do Python permite a visualização de dados em gráficos simples?
+Resposta: A biblioteca do Python responsável por permitir a exibição de dados em gráficos em 2D é o Matplotlib.
+
+3- Qual biblioteca do Python gera um DataFrame como sua abstração principal?
+Resposta: O pacote Pandas é a biblioteca do Python que faz o recebimento e tratamento dos dados dentro de DataFrames.
